@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Test files
+./test/*
+test.cpp
+test.txt
+
+# Misc
+.DS_Store
